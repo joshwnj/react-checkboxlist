@@ -5,6 +5,16 @@ React CheckboxList
 
 A simple component to create a list of checkboxes and respond to changes in state.
 
+Install
+----
+
+`npm install react-checkboxlist`
+
+Usage
+----
+
+Coming soon...
+
 License
 ----
 
