@@ -16,18 +16,18 @@ var CheckboxListItem = React.createClass({
   },
 
   render: function () {
-        return (
-          <div>
-      <label>
-        <input
-        ref="checkbox"
-        type="checkbox"
-        defaultChecked={this.props.isChecked}
-        onChange={this.props.onChange} />
+    return (
+      <div>
+        <label>
+          <input
+          ref="checkbox"
+          type="checkbox"
+          defaultChecked={this.props.isChecked}
+          onChange={this.props.onChange} />
 
-        {this.props.label}
-      </label>
-            </div>
+          {this.props.label}
+        </label>
+      </div>
     );                                         }
 });
 
