@@ -1,6 +1,6 @@
 {
   "name": "react-checkboxlist",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "React component to create a list of checkboxes.",
   "main": "CheckboxList.jsx",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "keywords": [
     "react",
+    "react-component",
     "checkbox"
   ],
   "author": "joshwnj",
